@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tile
+comment1.params=
+comment1.target=Tile()
+comment2.params=color\ value
+comment2.target=Tile(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment4.params=Color
+comment4.target=void\ setColor(java.lang.String)
+comment5.params=
+comment5.target=int\ getValue()
+comment6.params=value
+comment6.target=void\ setValue(int)
+comment7.params=color\ value
+comment7.target=void\ tradeTiles(java.lang.String,\ int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
